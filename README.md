@@ -10,7 +10,7 @@
 ## 🎓 Sobre mí  
 🔹 **Estudiante de**: Desarrollo de aplicaciones web  
 🔹 **Intereses**: Desarrollo Web, back-end, front-end  
-🔹 **Aprendiendo actualmente**: Java, HTML/  
+🔹 **Aprendiendo actualmente**: Java, HTML
 🔹 **Ubicación**: 🌍 Sevilla/España
 
 ---
