@@ -28,7 +28,7 @@
 📌 **CSS-Learning**  
 🔹 Aprendiendo CSS.  
 🔹 **Tecnologías usadas**: (Ejemplo: HTML, CSS)  
-🔹 [🔗 Ver en GitHub](https://github.com/TU_USUARIO/Lenguajes)  
+🔹 [🔗 Ver en GitHub](https://github.com/Braulio06-es/Lenguajes)  
 
 ![Demo](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b7611r5p17iowg7gkd45h05s9j6qlogrrc1d0cv1vzrkn&ep=v1_gifs_search&rid=giphy.gif&ct=g)  
 
