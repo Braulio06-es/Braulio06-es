@@ -1,16 +1,11 @@
-<div align="center">
-  
-# 👋 ¡Hola, soy Braulio!
-
-</div>
-
-![GitHub followers](https://img.shields.io/github/followers/Braulio06-es?style=social)  
-![Perfil de GitHub](https://img.shields.io/github/stars/Braulio06-es?style=social)  
 
 ## 🎓 Sobre mí  
 🔹 **Estudiante de**: Desarrollo de aplicaciones web  
 🔹 **Intereses**: Desarrollo Web, back-end, front-end  
 🔹 **Idiomas**: Español (nativo), Inglés (C1 Cambridge)
+
+![GitHub followers](https://img.shields.io/github/followers/Braulio06-es?style=social)  
+![Perfil de GitHub](https://img.shields.io/github/stars/Braulio06-es?style=social)  
 
 ---
 
